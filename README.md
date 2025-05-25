@@ -53,6 +53,8 @@ Enter number of rounds (e.g., 12): 3
 Enter scores for each round:
 
 
+
+
 --- Round 1 ---
 Enter Tyson's score for Round 1 (usually 10 for winner, 9 or less for loser): 10
 
@@ -61,6 +63,8 @@ Enter Ali's score for Round 1 (usually 10 for winner, 9 or less for loser): 9
 
 
 Was there a Knockout in this round? (yes/no): no
+
+
 
 
 --- Round 2 ---
@@ -73,6 +77,8 @@ Enter Ali's score for Round 2 (usually 10 for winner, 9 or less for loser): 10
 Was there a Knockout in this round? (yes/no): no
 
 
+
+
 --- Round 3 ---
 Enter Tyson's score for Round 3 (usually 10 for winner, 9 or less for loser): 10
 
@@ -81,6 +87,8 @@ Enter Ali's score for Round 3 (usually 10 for winner, 9 or less for loser): 8
 
 
 Was there a Knockout in this round? (yes/no): no
+
+
 
 
 === Final Score ===
